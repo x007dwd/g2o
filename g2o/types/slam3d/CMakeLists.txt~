@@ -15,7 +15,7 @@ ADD_LIBRARY(types_slam3d ${G2O_LIB_TYPE}
   edge_se3_lineendpts.cpp
   edge_se3_lineendpts.h
   vertex_lineendpts.h
-  vertex_lineendpts.cpp
+  vertext_lineendpts.cpp
   vertex_pointxyz.cpp
   vertex_pointxyz.h
   parameter_camera.cpp
